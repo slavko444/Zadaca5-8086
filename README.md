@@ -56,6 +56,8 @@ CALLER_SEG SEGMENT
  END ;крај на главната програма
 
 ```
+Изглед на стекот: 
+
 ![Screenshot (1)](https://github.com/slavko444/Zadaca5-8086/blob/main/Sektor.png)
 ![Screenshot (2)](https://github.com/slavko444/Zadaca5-8086/blob/main/Zadaca5%208086%20code.png)
 **Develop by:**
